@@ -1,0 +1,30 @@
+## YOLO MODEL TYPES ##
+
+# v8: https://github.com/autogyro/yolo-V8
+YOLO8n: 'pretrained/yolov8n.pt'
+YOLO8s: 'pretrained/yolov8s.pt'
+YOLO8m: 'pretrained/yolov8m.pt'
+YOLO8l: 'pretrained/yolov8l.pt'
+YOLO8x: 'pretrained/yolov8x.pt'
+
+# v9: https://github.com/WongKinYiu/yolov9
+YOLO9t: 'pretrained/yolov9t.pt'
+YOLO9s: 'pretrained/yolov9s.pt'
+YOLO9m: 'pretrained/yolov9m.pt'
+YOLO9c: 'pretrained/yolov9c.pt'
+YOLO9e: 'pretrained/yolov9e.pt'
+
+# v10: https://github.com/THU-MIG/yolov10
+YOLO10n: 'pretrained/yolov10n.pt'
+YOLO10s: 'pretrained/yolov10s.pt'
+YOLO10m: 'pretrained/yolov10m.pt'
+YOLO10b: 'pretrained/yolov10b.pt'
+YOLO10l: 'pretrained/yolov10l.pt'
+YOLO10x: 'pretrained/yolov10x.pt'
+
+# v11: https://github.com/ultralytics/ultralytics?tab=readme-ov-file
+YOLO11n: 'pretrained/yolov11n.pt'
+YOLO11s: 'pretrained/yolov11s.pt'
+YOLO11m: 'pretrained/yolov11m.pt'
+YOLO11l: 'pretrained/yolov11l.pt'
+YOLO11x: 'pretrained/yolov11x.pt'
